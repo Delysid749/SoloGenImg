@@ -16,7 +16,7 @@ SoloGenImg是一个基于SinGAN (Single Image Generative Adversarial Network) �
 ### 克隆仓库
 
 ```bash
-git clone https://github.com/Delysid749/SoloGenImg
+git clone https://github.com/Delysid749/SoloGenImg.git
 ```
 
 ### 安装依赖
